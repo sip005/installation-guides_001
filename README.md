@@ -7,3 +7,6 @@
 - 
 
 LAMP stack in Debian, Ubuntu, RHEL __ Get a New repo for Ansible Playbooks and modules
+
+- step by step setup of Ansible in multiple machines
+- Kubernetes setup master worker nodes
